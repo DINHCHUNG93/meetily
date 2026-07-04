@@ -1,3 +1,34 @@
+
+
+Cách đơn giản nhất để ghi chú và “bóc băng” cuộc họp thời gian thực mã nguồn mở trợ lý AI 14k ⭐️ đang được cộng đồng self-hosted yêu thích
+
+Meetily là một trợ lý AI cho cuộc họp hoạt động hoàn toàn cục bộ, có khả năng ghi âm, chuyển giọng nói thành văn bản theo thời gian thực và tự động tạo biên bản cuộc họp bằng AI mà không cần gửi dữ liệu lên cloud.
+
+Điểm nổi bật
+
+• Chạy hoàn toàn local, dữ liệu không rời khỏi máy tính.
+• Hỗ trợ transcription thời gian thực với Whisper và NVIDIA Parakeet.
+• Tự động tạo meeting summary bằng Ollama hoặc các LLM khác.
+• Hỗ trợ speaker diarization để phân biệt người nói.
+• Hoạt động với Google Meet, Zoom, Microsoft Teams và hầu hết nền tảng họp trực tuyến.
+• Hỗ trợ GPU acceleration trên Apple Silicon, NVIDIA, AMD và Intel GPU.
+• Cho phép sử dụng Ollama local hoặc kết nối Claude, OpenAI, OpenRouter và các endpoint tương thích OpenAI.
+• Hoàn toàn mã nguồn mở và có thể self-host. (GitHub)
+
+Một số ứng dụng thực tế
+
+• Tự động tạo biên bản họp cho doanh nghiệp.
+• Ghi chú cuộc họp khách hàng và cuộc gọi bán hàng.
+• Trích xuất action items và quyết định quan trọng sau cuộc họp.
+• Xây dựng knowledge base nội bộ từ lịch sử meeting.
+• Làm trợ lý AI cho team phát triển phần mềm hoặc startup.
+• Phục vụ các ngành yêu cầu bảo mật cao như tài chính, pháp lý hoặc y tế.
+
+Với hơn 14k ⭐ trên GitHub và hàng trăm nghìn lượt tải, đây đang trở thành một trong những lựa chọn mã nguồn mở đáng chú ý nhất dành cho AI Meeting Assistant và hoàn toàn có thể thay thế nhiều dịch vụ SaaS đắt đỏ hiện nay.
+
+
+
+
 <div align="center" style="border-bottom: none">
     <h1>
         <img src="docs/Meetily-6.png" style="border-radius: 10px;" />
